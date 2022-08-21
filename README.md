@@ -1,5 +1,5 @@
 # fundamentos-react-js
 
-Exec 
+Execute in terminal
 
-npm install
+<code>npm i</code>
